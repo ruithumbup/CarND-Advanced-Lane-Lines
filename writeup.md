@@ -126,9 +126,10 @@ Here's a [link to my video result](./project_video_output.mp4)
 #### 2. Provide a link to your challenge video output.
 
 The model performs really well when it comes to turns or strong shades, except it cannot plot the lane lines back to video frames precisely. This is because the lane lines are in different region of this video frame then in previous video. Modify the coordinates chosen for perspective transform can easily solve this problem.
----
 
 Here's a [link to my video result](./challenge_video_output.mp4)
+
+---
 
 ### Discussion
 
